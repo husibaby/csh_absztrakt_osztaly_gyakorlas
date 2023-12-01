@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "absztrakt_osztaly_gyakorlas", "absztrakt_osztaly_gyakorlas\absztrakt_osztaly_gyakorlas.csproj", "{3F259E3A-F0ED-40EF-8E28-3F006FDEFBDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F259E3A-F0ED-40EF-8E28-3F006FDEFBDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F259E3A-F0ED-40EF-8E28-3F006FDEFBDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F259E3A-F0ED-40EF-8E28-3F006FDEFBDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F259E3A-F0ED-40EF-8E28-3F006FDEFBDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0235B931-3F34-4835-B1FE-617D1C157327}
+	EndGlobalSection
+EndGlobal
